@@ -1,4 +1,3 @@
-# Escritura del README.md actualizado a archivo para descarga
 # Sistema de Venta de Boletos de Cine - Superman
 
 ![Pantalla del sistema de boletos](Superman_Cinema_System/static/Interfaz.png)
